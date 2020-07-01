@@ -6,5 +6,6 @@ blue
 green 
 yellow 
 hmimer
+khdider
 black 
 these are the colors of the rainbow 
